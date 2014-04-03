@@ -1,4 +1,4 @@
 meteorapp
 =========
 
-trying out meteor
+just trying out meteor
